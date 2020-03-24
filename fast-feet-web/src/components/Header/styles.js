@@ -39,10 +39,12 @@ export const Out = styled.div`
     color: #666;
     margin-bottom: 4px;
   }
-  span {
+  button {
     font-size: 14px;
     font-weight: normal;
-    color: #DE3B3B
+    color: #DE3B3B;
+    border: none;
+    background: none;
   }
  
 `

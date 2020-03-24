@@ -5,11 +5,11 @@ import Header from '../../components/Header'
 
 import Bitt from '../../components/Button'
 
-export default function Home() {
+export default function Problemas() {
   return (
     <Fundo>
       <Header />
-      <Bitt type="secondary">  salvar </Bitt>
+      <h1> Problemas na entrega </h1>
     </Fundo>
   )
 }
