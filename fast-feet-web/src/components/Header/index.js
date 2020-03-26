@@ -4,7 +4,6 @@ import { useDispatch } from 'react-redux';
 
 import { signOut } from '../../store/modules/auth/actions';
 
-
 import logo from '../../assets/fastfeetlogo.svg'
 
 import { Container, Navegation, Out, Nav } from './styles'
